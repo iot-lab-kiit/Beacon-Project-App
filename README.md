@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+### API Documentation - https://docs.google.com/document/d/1c-2gY1HKgRW0RmbnA21GmFo2qI3iBa7giDCW9FeKYcs/edit?usp=drivesdk
 
-This project is a starting point for a Flutter application.
+## Maintained By
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+Sambit Kumar Majhi (The Boss)
+Sayan Nath
+```
